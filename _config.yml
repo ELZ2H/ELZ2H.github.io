@@ -28,7 +28,7 @@ comments:
     theme: 
     issue_term: 
   staticman:
-    branch: ''
+    branch: comments
     endpoint: 
 reCaptcha:
   siteKey: 
